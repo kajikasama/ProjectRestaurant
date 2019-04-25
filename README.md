@@ -10,4 +10,5 @@ project magang dulu web design menggunakan
 
 dan lain sebagainya ..
 
+akan merubahnya menjadi web dinamis (nanti)
 
